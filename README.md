@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm [Nour Zayed] 👋</h1>
 <p align="center">
 
-  <a href="www.linkedin.com/in/nour-zayed-7n7074292">
+  <a href="(https://www.linkedin.com/in/nour-zayed-7n7074292/)">
     <img src="https://img.shields.io/badge/linkedin-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
