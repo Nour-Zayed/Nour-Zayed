@@ -5,37 +5,26 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&color=2E8B57&lines=AI+%26+Data+Analysis+Enthusiast;Always+Learning+Something+New+🚀;Let%27s+Connect+and+Build+Awesome+Things+Together!+✨" alt="Typing SVG" />
-  </a>
-</p>
----
-
-## 👩‍💻 About Me:
-
-🎯 I'm Nour Zayed, a passionate learner and technology enthusiast with a strong interest in **AI, Machine Learning, and Data Analysis**. I thrive on uncovering insights from data and transforming them into meaningful, actionable solutions.
-
-💡 Over the past period, I've worked on various **data-driven projects** applying techniques like **Exploratory Data Analysis (EDA)**, **data visualization**, and **predictive modelling**. I'm constantly growing my skills in **Python for data analysis**, **Power BI dashboards**, and developing interactive apps using **Streamlit**.
-
-🚀 What excites me most is the ability to turn raw numbers into visual, insightful stories that support **better business decisions** and reveal opportunities hidden in data.
-
-🌱 Currently diving deeper into **AI concepts, machine learning fundamentals, and NLP basics** — always eager to learn new tools and techniques.
-
-📊 Interested in everything data: **from cleaning to wrangling, analyzing to visualizing, and finally delivering clear insights** that matter.
-
----
-
-
-
-
-<p align="center">
-  <a href="https://github.com/Nour-Zayed/" align="center">
-    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Nour-Zayed.Nour-Zayed">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&color=2E8B57&lines=AI+%26+Data+Analysis+Enthusiast;Always+Learning+New+Things+🚀;Let%27s+Connect+and+Build+Awesome+Things+Together!+✨" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ## 📖 { وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ }
+
+---
+
+## ✨ About Me
+
+I'm Nour Zayed — a curious learner passionate about **AI, Data Analysis, and Machine Learning**.  
+I love making sense out of messy data and turning it into meaningful, clear insights.
+
+Recently worked with **Python**, **Power BI**, and **Streamlit** for data-driven projects.  
+I enjoy building visual stories, dashboards, and practical solutions that turn numbers into decisions.
+
+Always learning something new, improving my skills, and exploring anything data or AI-related.  
+Happy to connect and collaborate!
 
 ---
 
@@ -67,21 +56,20 @@
 
 ---
 
+## 📊 GitHub Activity Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nour-Zayed&theme=radical" />
+</p>
+
+---
+
 ## 📬 Connect with Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nour-zayed-7n7074292/" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
-</p>
-
-
----
-
-## 📊 GitHub Activity Graph:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nour-Zayed&theme=radical" />
 </p>
 
 ---
