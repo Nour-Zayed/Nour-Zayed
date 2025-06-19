@@ -8,6 +8,24 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&color=2E8B57&lines=AI+%26+Data+Analysis+Enthusiast;Always+Learning+Something+New+🚀;Let%27s+Connect+and+Build+Awesome+Things+Together!+✨" alt="Typing SVG" />
   </a>
 </p>
+---
+
+## 👩‍💻 About Me:
+
+🎯 I'm Nour Zayed, a passionate learner and technology enthusiast with a strong interest in **AI, Machine Learning, and Data Analysis**. I thrive on uncovering insights from data and transforming them into meaningful, actionable solutions.
+
+💡 Over the past period, I've worked on various **data-driven projects** applying techniques like **Exploratory Data Analysis (EDA)**, **data visualization**, and **predictive modelling**. I'm constantly growing my skills in **Python for data analysis**, **Power BI dashboards**, and developing interactive apps using **Streamlit**.
+
+🚀 What excites me most is the ability to turn raw numbers into visual, insightful stories that support **better business decisions** and reveal opportunities hidden in data.
+
+🌱 Currently diving deeper into **AI concepts, machine learning fundamentals, and NLP basics** — always eager to learn new tools and techniques.
+
+📊 Interested in everything data: **from cleaning to wrangling, analyzing to visualizing, and finally delivering clear insights** that matter.
+
+---
+
+
+
 
 <p align="center">
   <a href="https://github.com/Nour-Zayed/" align="center">
