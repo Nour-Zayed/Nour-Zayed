@@ -12,9 +12,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*8Vj5tdgprC-u2LIk9KfRSA.png" alt="AI & Data Enthusiast" width="80%" />
-</p>
+
 
 
 
