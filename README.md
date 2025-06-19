@@ -31,27 +31,21 @@
 ---
 
 
-##  Connect with Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nour-zayed-7n7074292/" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
+  <a href="https://www.linkedin.com/in/nour-zayed-7n7074292/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:nzayed275@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="30"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100072914674968&mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </p>
 
-<a href="https://www.linkedin.com/in/nour-zayed-7n7074292/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:nzayed275@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="30"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100072914674968&mibextid=ZbWKwL">
-    <img src="https://img.shields.io/badge/facebook-%231877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
 </p>
 
 ---
