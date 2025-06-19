@@ -52,20 +52,25 @@
 
 ##  About Me
 
-I'm **Nour Zayed**, a passionate and curious learner in **AI, Data Analysis, and Machine Learning**.  
-I enjoy making sense of messy data and turning it into clear, actionable insights through data storytelling and visualization.
 
-My technical toolkit includes **Python**, **Power BI**, **Streamlit**, and **SQL** — where I focus on writing clean, maintainable code, developing interactive dashboards, and managing efficient data pipelines. I’m also experienced in **web scraping**, building custom scripts to extract valuable data from various sources for analysis.
+💡 I'm Nour Zayed, a passionate and curious learner in AI, Data Analysis, and Machine Learning. I enjoy transforming messy data into clear, actionable insights through data storytelling and visualization.
 
-I love applying mathematical, statistical, and analytical techniques to solve real-world challenges and deliver data-driven solutions that make an impact.
+🛠️ My technical toolkit includes Python, Power BI, Streamlit, and SQL — focusing on writing clean, maintainable code, developing interactive dashboards, and managing efficient data pipelines. I'm also skilled in web scraping, building custom scripts to extract valuable data from diverse sources for analysis.
 
-Whether it’s programming, data analysis, visualization, database management, or scraping the web for insights — I’m always exploring new technologies and sharpening my problem-solving skills.
+📊 I love applying mathematical, statistical, and analytical techniques to solve real-world challenges, automate processes, and deliver smart, data-driven solutions that create real impact.
 
-**Open to collaborations, exciting projects, and meaningful data conversations. Let’s connect! 🚀**
+🚀 Whether it’s programming, data analysis, visualization, AI modeling, dashboard development, database management, or web scraping — I’m constantly exploring new technologies and sharpening my problem-solving skills.
+
+🤝 Open to collaborations, exciting projects, and meaningful data conversations. Let’s connect and build something awesome together!
 
 
 ---
+## 🤝 Open to:
 
+- ✨ **Collaborations** on AI, ML, and data projects.
+- 📊 **Freelance data visualization and dashboard projects.**
+- 📬 Data conversations, learning opportunities, and tech talks!
+---
 ## 🛠️ Languages & Tools
 
 <p align="center">
