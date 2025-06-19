@@ -16,18 +16,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*8Vj5tdgprC-u2LIk9KfRSA.png" alt="AI & Data Enthusiast" width="80%" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&color=2E8B57&lines=AI+Enthusiast+💡;Data+Analysis+%26+Machine+Learning+🚀;Data+Visualization+%7C+Power+BI+%7C+Streamlit+📊;Python+Lover+🐍;Always+Learning+Something+New+✨;Turning+Data+into+Insights+📌;Open+to+collaborations+and+cool+projects+🤝;Always+happy+to+connect+and+help+💌" alt="Typing SVG" />
-      </a>
-    </td>
-    <td>
-      <img src="https://cdn.pixabay.com/photo/2019/06/17/19/48/artificial-intelligence-4286387_960_720.jpg" alt="AI & Data Enthusiast" width="300px"/>
-    </td>
-  </tr>
-</table>
+
 
 
 <p align="center">بسم الله الرحمن الرحيم</p>
