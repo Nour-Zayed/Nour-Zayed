@@ -74,3 +74,22 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
 </p>
+
+
+---
+
+## 📊 GitHub Activity Graph:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nour-Zayed&theme=radical" />
+</p>
+
+---
+
+## 👀 Profile Visitors:
+
+<p align="center">
+  <a href="https://github.com/Nour-Zayed/" align="center">
+    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Nour-Zayed.Nour-Zayed">
+  </a>
+</p>
