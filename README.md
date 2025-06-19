@@ -59,8 +59,9 @@ Happy to connect and collaborate!
 ## 📊 GitHub Activity Graph:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Activity Graph Animation" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour-Zayed&theme=radical" />
 </p>
+
 
 
 
