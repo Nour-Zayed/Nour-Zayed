@@ -11,6 +11,22 @@
 
 ---
 
+<h3 align="center">
+  Hi, I'm Nour Zayed
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&color=2E8B57&lines=AI+Enthusiast+💡;Data+Analysis+%26+Machine+Learning+🚀;Data+Visualization+%7C+Power+BI+%7C+Streamlit+📊;Python+Lover+🐍;Always+Learning+Something+New+✨;Turning+Data+into+Insights+📌;Open+to+collaborations+and+cool+projects+🤝;Always+happy+to+connect+and+help+💌" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*8Vj5tdgprC-u2LIk9KfRSA.png" alt="AI & Data Enthusiast" width="80%" />
+</p>
+
+
 <p align="center">بسم الله الرحمن الرحيم</p>
 
 <p align="center"><strong></strong> وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ</strong></p>
