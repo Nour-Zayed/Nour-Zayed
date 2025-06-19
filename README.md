@@ -11,7 +11,11 @@
 
 ---
 
-## 📖 { وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ }
+<p align="center"><strong>بسم الله الرحمن الرحيم</strong></p>
+
+<p align="center">وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ</p>
+
+<p align="center"><strong>صدق الله العظيم</strong></p>
 
 ---
 
@@ -62,10 +66,6 @@ Happy to connect and collaborate!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour-Zayed&theme=radical" />
 </p>
 
-
-
-
-
 ---
 
 ## 📬 Connect with Me:
@@ -78,7 +78,6 @@ Happy to connect and collaborate!
 
 ---
 
-## 👀 Profile Visitors:
 
 <p align="center">
   <a href="https://github.com/Nour-Zayed/" align="center">
