@@ -11,21 +11,49 @@
 </p>
 <h2> "Data Analyst"</h2>
 
----
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushi-droid&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
-### About Me
-I am skilled in programming using Python and Object-Oriented Programming (OOP). I specialize in Data Analysis using tools like **Streamlit** and **Power BI** for automation. My expertise includes preprocessing various types of datasets efficiently and presenting insights in a professional manner.
+[![trophy](https://github-profile-trophy.vercel.app/?username=aayushi-droid&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+- 📝 I regulary write articles on [Aayushi's Blog](http://aayushi-droid.github.io/)
 
-- Knowledgeable in **SQL**, web scraping, and implementing math and statistics.
-- Experienced in following **SOLID principles** to design robust and maintainable code.
-- I have **basic knowledge of Machine Learning and Natural Language Processing (NLP)**.
-- Passionate about solving complex problems through analytical thinking and technical skills.
+<p align="center">
+<a href="https://dev.to/aayushidroid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
+</p>
 
----
+<h1 align="center">Hi 👋, I'm Nour Zayed</h1>
 
-### What I Do
-- **Programming & Development**: Writing clean and maintainable Python code.
-- **Data Analysis & Visualization**: Leveraging tools like Streamlit and Power BI to present data insights.
-- **Database Management**: Writing optimized SQL queries for data retrieval and storage.
-- **Web Scraping**: Extracting data efficiently from various websites for analysis.
-- **Problem Solving**: Applying mathematical and statistical concepts to tackle challenges.
+- 🌱 I’m currently learning **AI, Data Science, and Machine Learning**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nour-zayed/)
+- 💻 I love building projects and contributing to open-source
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nour-Zayed&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="Nour's github stats"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nour-Zayed&theme=gruvbox" alt="Nour's trophies"/>
+</p>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nour-Zayed&theme=blue-white" alt="Nour's streak stats"/>
+</p>
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-Zayed&layout=compact&theme=blue-white" alt="Nour's top languages"/>
+</p>
+
+## 📬 Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nour-zayed/" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
+  </a>
+</p>
