@@ -8,7 +8,11 @@
 </p>
 
 
+## 🐍 GitHub Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nour-Zayed/Nour-Zayed/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
