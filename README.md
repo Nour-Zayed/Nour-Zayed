@@ -30,20 +30,38 @@
 
 ---
 
-##  About Me
 
-I'm Nour Zayed — a curious learner passionate about **AI, Data Analysis, and Machine Learning**.  
-I love making sense out of messy data and turning it into meaningful, clear insights.
+##  Connect with Me:
 
-Recently worked with **Python**, **Power BI**, and **Streamlit** for data-driven projects.  
-I enjoy building visual stories, dashboards, and practical solutions that turn numbers into decisions.
-
-Always learning something new, improving my skills, and exploring anything data or AI-related.  
-Happy to connect and collaborate!
+<p align="center">
+  <a href="https://www.linkedin.com/in/nour-zayed-7n7074292/" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nzayed275@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="30"/>
+  </a>
+</p>
 
 ---
 
-## 📊 Most Used Languages:
+##  About Me
+
+I'm **Nour Zayed**, a passionate and curious learner in **AI, Data Analysis, and Machine Learning**.  
+I enjoy making sense of messy data and turning it into clear, actionable insights through data storytelling and visualization.
+
+My technical toolkit includes **Python**, **Power BI**, **Streamlit**, and **SQL** — where I focus on writing clean, maintainable code, developing interactive dashboards, and managing efficient data pipelines. I’m also experienced in **web scraping**, building custom scripts to extract valuable data from various sources for analysis.
+
+I love applying mathematical, statistical, and analytical techniques to solve real-world challenges and deliver data-driven solutions that make an impact.
+
+Whether it’s programming, data analysis, visualization, database management, or scraping the web for insights — I’m always exploring new technologies and sharpening my problem-solving skills.
+
+**Open to collaborations, exciting projects, and meaningful data conversations. Let’s connect! 🚀**
+
+
+---
+
+##  Most Used Languages:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nour-Zayed&layout=compact&theme=radical" />
@@ -71,23 +89,10 @@ Happy to connect and collaborate!
 
 ---
 
-## 📊 GitHub Activity Graph:
+##  GitHub Activity Graph:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour-Zayed&theme=radical" />
-</p>
-
----
-## 📬 Connect with Me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nour-zayed-7n7074292/" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:nzayed275@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="30"/>
-  </a>
 </p>
 
 ---
