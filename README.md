@@ -5,17 +5,17 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&color=2E8B57&lines=AI+%26+Data+Analysis+Enthusiast;Always+Learning+New+Things+🚀;Let%27s+Connect+and+Build+Awesome+Things+Together!+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&color=2E8B57&lines=AI+Enthusiast+💡;Data+Analysis+%26+Machine+Learning+🚀;Data+Visualization+%7C+Power+BI+%7C+Streamlit+📊;Python+Lover+🐍;Always+Learning+Something+New+✨;Turning+Data+into+Insights+📌;Open+to+collaborations+and+cool+projects+🤝;Always+happy+to+connect+and+help+💌" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-<p align="center"><strong>بسم الله الرحمن الرحيم</strong></p>
+<p align="center">بسم الله الرحمن الرحيم</p>
 
-<p align="center">وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ</p>
+<p align="center"><strong></strong> وَفِي السَّمَاءِ رِزْقُكُمْ وَمَا تُوعَدُونَ</strong></p>
 
-<p align="center"><strong>صدق الله العظيم</strong></p>
+<p align="center">صدق الله العظيم</p>
 
 ---
 
@@ -75,6 +75,11 @@ Happy to connect and collaborate!
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
 </p>
+
+<p align="center">
+  📧 Email: <a href="mailto:nzayed275@gmail.com">nzayed275@gmail.com</a>
+</p>
+
 
 ---
 
