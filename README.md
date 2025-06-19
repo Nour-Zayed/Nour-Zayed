@@ -59,8 +59,9 @@ Happy to connect and collaborate!
 ## 📊 GitHub Activity Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nour-Zayed&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour-Zayed&theme=radical" />
 </p>
+
 
 ---
 
