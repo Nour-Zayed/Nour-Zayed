@@ -19,7 +19,7 @@
 
 ---
 
-## ✨ About Me
+##  About Me
 
 I'm Nour Zayed — a curious learner passionate about **AI, Data Analysis, and Machine Learning**.  
 I love making sense out of messy data and turning it into meaningful, clear insights.
@@ -67,19 +67,17 @@ Happy to connect and collaborate!
 </p>
 
 ---
-
 ## 📬 Connect with Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nour-zayed-7n7074292/" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:nzayed275@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="30"/>
+  </a>
 </p>
-
-<p align="center">
-  📧 Email: <a href="mailto:nzayed275@gmail.com">nzayed275@gmail.com</a>
-</p>
-
 
 ---
 
