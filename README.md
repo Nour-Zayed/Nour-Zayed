@@ -1,7 +1,9 @@
-<h3 align="center">
+<h2 align="center">
   Hi, I'm Nour Zayed
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50" />
+</h2>
+
 
 
 ---
