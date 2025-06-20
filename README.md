@@ -136,8 +136,9 @@
 ##  GitHub Activity Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour-Zayed&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nour-Zayed&theme=radical&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&bg_color=0d1117&color=c9d1d9&line=2E8B57&point=2E8B57" />
 </p>
+
 
 
 ---
