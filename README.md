@@ -143,7 +143,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/Nour-Zayed/" align="center">
-    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Nour-Zayed.Nour-Zayed">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Nour-Zayed&label=Profile%20Views&color=2E8B57&style=for-the-badge" alt="Nour-Zayed" />
 </p>
+
