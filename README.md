@@ -147,7 +147,10 @@
 </p>
 
 
+## ⏳ WakaTime Stats
+
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nour-zayed" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NourZayed&theme=radical&layout=compact" />
 </p>
+
 
