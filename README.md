@@ -14,9 +14,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&color=2E8B57&lines=AI+Enthusiast+💡;Data+Analysis+%26+Machine+Learning+🚀;Data+Visualization+%7C+Power+BI+%7C+Streamlit+📊;Python+Lover+🐍;Always+Learning+Something+New+✨;Turning+Data+into+Insights+📌;Open+to+collaborations+and+cool+projects+🤝;Always+happy+to+connect+and+help+💌" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=1000&lines=👩‍💻+Nour+Zayed+here!;AI+%26+Data+Analysis+Enthusiast+🚀;Machine+Learning+Explorer+🤖;Turning+Data+into+Insights+📊;Python+%7C+Power+BI+%7C+Streamlit+%7C+SQL+🐍;Always+learning+and+building+new+things+✨;Open+to+Collaborations+and+Exciting+Projects+🤝" alt="Typing SVG" />
   </a>
 </p>
+
 
 
 
