@@ -144,9 +144,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nour-Zayed&label=Profile%20Views&color=2E8B57&style=for-the-badge" alt="Nour-Zayed" />
-  ![WakaTime](https://img.shields.io/badge/WakaTime-Active-blueviolet?style=for-the-badge&logo=wakatime)
-
+  <img src="https://img.shields.io/badge/WakaTime-Active-blueviolet?style=for-the-badge&logo=wakatime" alt="WakaTime" />
 </p>
+
 
 
 
