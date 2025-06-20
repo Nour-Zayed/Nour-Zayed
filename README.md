@@ -146,6 +146,8 @@
   <img src="https://komarev.com/ghpvc/?username=Nour-Zayed&label=Profile%20Views&color=2E8B57&style=for-the-badge" alt="Nour-Zayed" />
 </p>
 
+![wakatime](https://wakatime.com/badge/user/NourZayed.svg)
+
 
 ## ⏳ WakaTime Stats
 
