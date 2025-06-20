@@ -146,3 +146,8 @@
   <img src="https://komarev.com/ghpvc/?username=Nour-Zayed&label=Profile%20Views&color=2E8B57&style=for-the-badge" alt="Nour-Zayed" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YourUserName&theme=radical" />
+</p>
+
