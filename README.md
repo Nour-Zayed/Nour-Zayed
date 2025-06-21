@@ -61,15 +61,19 @@
 ##  About Me
 
 
-💡 I'm Nour Zayed, a passionate and curious learner in AI, Data Analysis, and Machine Learning. I enjoy transforming messy data into clear, actionable insights through data storytelling and visualization.
+💡 I'm Nour Zayed, a passionate and curious learner driven by data, powered by AI, and fueled by endless curiosity. I thrive on transforming complex, messy data into clear, actionable insights through data storytelling, visualization, and AI-powered models.
 
-🛠️ My technical toolkit includes Python, Power BI, Streamlit, and SQL — focusing on writing clean, maintainable code, developing interactive dashboards, and managing efficient data pipelines. I'm also skilled in web scraping, building custom scripts to extract valuable data from diverse sources for analysis.
+🛠️ My technical toolkit includes Python, SQL, Power BI, and Streamlit — with hands-on experience in building machine learning models, developing interactive dashboards, managing efficient data pipelines, and automating processes through custom scripts and web scraping.
 
-📊 I love applying mathematical, statistical, and analytical techniques to solve real-world challenges, automate processes, and deliver smart, data-driven solutions that create real impact.
+📊 I love applying mathematical, statistical, and analytical techniques to solve real-world challenges, uncover hidden patterns, and deliver smart, data-driven solutions that create tangible impact.
 
-🚀 Whether it’s programming, data analysis, visualization, AI modeling, dashboard development, database management, or web scraping — I’m constantly exploring new technologies and sharpening my problem-solving skills.
+🚀 Whether it’s programming, data analysis, AI modeling, dashboard development, database management, or exploring the latest in data science and machine learning tools — I’m constantly evolving, learning, and embracing new technologies.
 
-🤝 Open to collaborations, exciting projects, and meaningful data conversations. Let’s connect and build something awesome together!
+🤝 Open to collaborations, exciting projects, AI experiments, and meaningful data conversations. Let’s connect and build awesome things together!
+
+
+
+
 
 
 ---
