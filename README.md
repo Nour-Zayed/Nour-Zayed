@@ -10,12 +10,6 @@
 
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nour-Zayed/Nour-Zayed/output/github-snake-dark.svg?palette=github-dark" alt="snake gif" />
-</p>
-
-
-
 
 ---
 
@@ -143,6 +137,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nour-Zayed/Nour-Zayed/output/github-snake-dark.svg?palette=github-dark" alt="snake gif" />
+</p>
 
 ##  GitHub Activity Graph:
 
