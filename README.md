@@ -79,10 +79,58 @@
 ---
 
 
-## 📌 Languages & Tools
 
-<p align="center"> <!-- Python --> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/> </a> <!-- Data Analysis Libraries --> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/> </a> <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60"/> </a> <a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="60" height="60"/> </a> <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a> <!-- AI & Machine Learning --> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="60" height="60"/> </a> <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/> </a> <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="60" height="60"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/logo/opencv-logo-white.png" alt="OpenCV" width="60" height="60"/> </a> <a href="https://www.nltk.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/NLTK_logo.png" alt="NLTK" width="60" height="60"/> </a> <a href="https://spacy.io/" target="_blank"> <img src="https://spacy.io/static/img/spacy-logos/prefers/spacy-logo-black.svg" alt="spaCy" width="60" height="60"/> </a> <!-- Visualization & Dashboards --> <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/power-bi-2.svg" alt="Power BI" width="60" height="60"/> </a> <a href="https://streamlit.io/" target="_blank"> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="120"/> </a> <!-- Databases --> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60" height="60"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/> </a> </p>
+##  Languages & Tools
 
+<p align="center">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  </a>
+  <!-- Pandas -->
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
+  </a>
+  <!-- NumPy -->
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60"/>
+  </a>
+  <!-- scikit-learn -->
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" width="60" height="60"/>
+  </a>
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
+  </a>
+  <!-- Keras -->
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="60" height="60"/>
+  </a>
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/power-bi-2.svg" alt="Power BI" width="60" height="60"/>
+  </a>
+  <!-- Streamlit -->
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="120"/>
+  </a>
+  <!-- SQL Server -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60" height="60"/>
+  </a>
+  <!-- Oracle -->
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/>
+  </a>
+</p>
+
+## 📌 Other Libraries:
+- **Matplotlib**
+- **Seaborn**
+- **OpenCV**
+- **NLTK**
+- **spaCy**
 
 
 ##  Most Used Languages:
